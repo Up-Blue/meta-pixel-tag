@@ -1,0 +1,7 @@
+homepage: "https://www.upblue.pl/"
+documentation: "https://www.upblue.pl/"
+versions:
+  - sha: a7215f29e3392accd14ca5d118223d356e197875
+    changeNotes: Changed LICENSE
+  - sha: 70892ebf1aa94200f87d179c11ed20c10e06d39b
+    changeNotes: Initial release.
