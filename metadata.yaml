@@ -1,5 +1,5 @@
 homepage: "https://www.upblue.pl/"
-documentation: "https://www.upblue.pl/"
+documentation: "https://github.com/Up-Blue/meta-pixel-tag#readme"
 versions:
   - sha: 95c64f6c7564bea6049f75cf247c60962b4ebfed
     changeNotes: Changed LICENSE
