@@ -15,9 +15,7 @@ ___INFO___
   "displayName": "Meta Pixel Tag | Up Blue",
   "categories": [
     "ADVERTISING",
-    "ANALYTICS",
     "CONVERSIONS",
-    "MARKETING",
     "REMARKETING"
   ],
   "brand": {
