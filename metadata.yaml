@@ -1,6 +1,8 @@
 homepage: "https://www.upblue.pl/"
 documentation: "https://github.com/Up-Blue/meta-pixel-tag#readme"
 versions:
+  - sha: 04fe2641999d9e9f136f9ad425daffaa19e82063
+    changeNotes: Unmodified Apache 2.0 license.
   - sha: b9ed9f814f744ee7ec7832820e75a257818cdc4b
     changeNotes: Reduce categories to 3 as required by GTM Gallery.
   - sha: 87ead7734c5c7986cad08bd8dda4a66b2a02e534
